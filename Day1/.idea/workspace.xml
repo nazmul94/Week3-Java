@@ -2,50 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e1cbdf-b378-401a-b0d7-779c288472a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/ui/SwingUI.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/behaviours/PersonCountryPredicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/behaviours/PersonFirstNamePredicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/behaviours/PersonLastNamePredicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/behaviours/PersonPredicate.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/main/Programme.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/main/TaskProcessing.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/models/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/models/Contact.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/models/GeneratedContacts.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/addressBookProgramme/models/Person.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/behaviours/PersonCountryPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/behaviours/PersonFirstNamePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/behaviours/PersonLastNamePredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/behaviours/PersonPredicate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/main/Programme.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/main/TaskProcessing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/models/Address.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/models/Contact.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/models/GeneratedContacts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/addressBookProgramme/models/Person.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/Programme.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/Programme.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/database/ConnectDB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/database/OperateDB.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing$1.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/Employee.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/Employee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/GeneratedEmployees.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/GeneratedEmployees.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/Person.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/models/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/CommandInterface.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/CommandInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/main/Programme.class" afterPath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/main/Programme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/main/TaskProcessing.class" afterPath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/main/TaskProcessing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/models/Contact.class" afterPath="$PROJECT_DIR$/../addressBookProgramme/out/production/addressBookProgramme/addressBookProgramme/models/Contact.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$2.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$3.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$4.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/behaviours/EmployeePredicate.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/behaviours/EmployeePredicate.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/main/Programme.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/main/Programme.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/models/Employee.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/models/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/models/GeneratedEmployees.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/models/GeneratedEmployees.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/models/Person.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/models/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/ui/CommandInterface.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/ui/CommandInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../addressBookProgramme/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/main/Programme.java" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/main/Programme.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/main/TaskProcessing.java" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/main/TaskProcessing.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/models/Contact.java" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/models/Contact.java" />
     </list>
     <ignored path="MyFirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +38,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
               <caret line="15" column="125" lean-forward="false" selection-start-line="15" selection-start-column="125" selection-end-line="15" selection-end-column="125" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,31 +58,36 @@
       <file leaf-file-name="TaskProcessing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1452">
+            <state relative-caret-position="8640">
               <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#5756#5757#0" expanded="false" />
+                <element signature="e#5841#5842#0" expanded="false" />
+                <element signature="e#5901#5902#0" expanded="false" />
+                <element signature="e#5988#5989#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperateDB.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="OperateDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnectDB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConnectDB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#638#639#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,11 +96,10 @@
       <file leaf-file-name="SwingUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/SwingUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3440">
+            <state relative-caret-position="11880">
               <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
               <folding>
-                <element signature="e#1033#1495#0" expanded="true" />
-                <element signature="e#1494#1495#0" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -157,7 +130,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3480">
               <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -255,10 +230,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="y" value="-16" />
-    <option name="width" value="3872" />
-    <option name="height" value="2092" />
+    <option name="x" value="-14" />
+    <option name="width" value="1948" />
+    <option name="height" value="2074" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -278,7 +252,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -417,6 +390,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
@@ -426,7 +400,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../addressBookProgramme" />
   </component>
   <component name="RunManager" selected="Application.Programme">
     <configuration default="false" name="BinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -767,7 +741,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <frame x="-14" y="0" width="1948" height="2074" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -784,7 +758,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2275574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1025,7 +999,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="15" column="125" lean-forward="false" selection-start-line="15" selection-start-column="125" selection-end-line="15" selection-end-column="125" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,7 +1025,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3480">
           <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,39 +1041,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/SwingUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3440">
+        <state relative-caret-position="11880">
           <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
           <folding>
-            <element signature="e#1033#1495#0" expanded="true" />
-            <element signature="e#1494#1495#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
+        <state relative-caret-position="8640">
           <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#5756#5757#0" expanded="false" />
+            <element signature="e#5841#5842#0" expanded="false" />
+            <element signature="e#5901#5902#0" expanded="false" />
+            <element signature="e#5988#5989#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package employeeProgramme.database;
+package addressBookProgramme.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
