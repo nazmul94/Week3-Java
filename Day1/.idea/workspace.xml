@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e1cbdf-b378-401a-b0d7-779c288472a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/database/ConnectDB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../addressBookProgramme/src/addressBookProgramme/database/OperateDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing$1.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../computerShop/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../computerShop/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../computerShop/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../computerShop/computerShop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/database/ConnectDB.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/database/ConnectDB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/Programme.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/Programme.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/main/TaskProcessing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$2.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$3.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$4.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI.class" afterPath="$PROJECT_DIR$/out/production/MyFirstProject/employeeProgramme/ui/SwingUI.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" afterPath="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../addressBookProgramme/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../addressBookProgramme/.idea/workspace.xml" />
     </list>
     <ignored path="MyFirstProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,14 +35,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="520">
               <caret line="15" column="125" lean-forward="false" selection-start-line="15" selection-start-column="125" selection-end-line="15" selection-end-column="125" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Programme.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Programme.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/Programme.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="560">
@@ -58,24 +53,18 @@
       <file leaf-file-name="TaskProcessing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8640">
-              <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#5756#5757#0" expanded="false" />
-                <element signature="e#5841#5842#0" expanded="false" />
-                <element signature="e#5901#5902#0" expanded="false" />
-                <element signature="e#5988#5989#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="320">
+              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OperateDB.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperateDB.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
+            <state relative-caret-position="440">
+              <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -86,9 +75,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,9 +85,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="11880">
               <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,11 +113,9 @@
       <file leaf-file-name="CommandInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/CommandInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3480">
-              <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,8 +123,8 @@
       <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/employeeProgramme/models/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1280">
-              <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="800">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -220,19 +203,20 @@
         <option value="$PROJECT_DIR$/src/employeeProgramme/ui/CommandInterface.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/models/Employee.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/models/Person.java" />
-        <option value="$PROJECT_DIR$/src/employeeProgramme/main/Programme.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/ui/SwingUI.java" />
-        <option value="$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDb.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java" />
         <option value="$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java" />
+        <option value="$PROJECT_DIR$/src/employeeProgramme/main/Programme.java" />
+        <option value="$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="width" value="1948" />
-    <option name="height" value="2074" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -252,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -390,9 +375,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -400,7 +384,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../addressBookProgramme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Programme">
     <configuration default="false" name="BinaryConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -741,8 +725,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="0" width="1948" height="2074" extended-state="0" />
-    <editor active="false" />
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -752,13 +736,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32865623" sideWeight="0.561875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32700652" sideWeight="0.438125" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694414" sideWeight="0.438125" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2275574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22734375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -995,20 +979,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/models/GeneratedEmployees.java">
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/SwingUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="15" column="125" lean-forward="false" selection-start-line="15" selection-start-column="125" selection-end-line="15" selection-end-column="125" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="11880">
+          <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/models/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1280">
-          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           <folding />
         </state>
       </provider>
@@ -1021,13 +1011,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/models/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/CommandInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3480">
-          <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/models/GeneratedEmployees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="15" column="125" lean-forward="false" selection-start-line="15" selection-start-column="125" selection-end-line="15" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,48 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/ui/SwingUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11880">
-          <caret line="307" column="1" lean-forward="false" selection-start-line="307" selection-start-column="1" selection-end-line="307" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/main/TaskProcessing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8640">
-          <caret line="235" column="0" lean-forward="false" selection-start-line="235" selection-start-column="0" selection-end-line="235" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#5756#5757#0" expanded="false" />
-            <element signature="e#5841#5842#0" expanded="false" />
-            <element signature="e#5901#5902#0" expanded="false" />
-            <element signature="e#5988#5989#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/ConnectDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/employeeProgramme/database/OperateDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="82" selection-end-column="5" />
           <folding />
         </state>
       </provider>
